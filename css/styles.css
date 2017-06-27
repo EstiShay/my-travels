@@ -1,0 +1,17 @@
+body {
+  font-family: Times, serif;
+  background-color: #C9D1CE;
+}
+
+h1 {
+  font-size: 25px;
+  color: #359270;
+}
+
+
+img {
+  border: 12px solid #359270;
+  border-radius: 5%;
+  display: block;
+  margin: auto;
+}
