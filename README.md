@@ -8,7 +8,7 @@
 
 Experimenting with HTML5 we created a webpage of our favorite travel destinations. We implemented inline elements, images, and links.
 
-##Technologies Used
+## Technologies Used
 
 * HTML5
 * Robust perseverance
